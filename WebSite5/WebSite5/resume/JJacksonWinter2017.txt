@@ -1,0 +1,149 @@
+﻿PROGRAMMING LANGUAGES AND SKILLS
+Scientific Computing
+* MATLAB,  AutoCAD
+* R, R commander
+* C, Embedded C, C++
+	Java  and OSGI Tools
+* Java , Maven, Karaf
+* Spring, Eureka, 
+	Microsoft Related Technologies
+* C#, Entity,  MVC, Linq
+* OpenXml, COM Interop
+* ASP.NET, WindowsForms
+* Powershell
+
+
+
+
+	Cloud Technologies
+* AWS EC2, AWS RDS
+* AWS command line tools Powershell,  boto
+* Docker
+
+
+	Front End Technologies
+* Javascript , Angular (I/II) 
+* JQuery, Node, React Js
+* CSS/HTML
+* Word Press
+
+
+	Database Technologies
+* SQL, MySQL
+* PostgreSQL
+* MongoDB
+
+
+	
+
+PROFESSIONAL EXPERIENCE:
+
+
+PointPredictive | San Diego, California (Contract)                        October 2017 - December 2017
+Data Science Project:  Python, PostgreSQL , AWS RDS, Selenium, Pandas, Numpy, Beautiful Soup, Word Press 
+* Scrape Economic Research Institutes  website for economic data (Selenium,Beautiful Soup) 
+* Implement application that could estimate annual income of loan candidate based on average income of candidates in the surrounding area. A PostgreSQL  database populated with  2017 census data using  tiger line census files was used to store U.S. demographic information. KD tree search was used  to group coordinates into clusters. 
+* Cloud based (AWS)
+
+
+FixQuicker  | San Diego, California                                 May 2017 - October 2017
+Software Engineer:  Full Stack:  Java, Spring, Eureka, MySQL, AWS
+
+
+* Modifications of backend Java and MySql to get Roles and Permission working for the website (Mysql, Java Spring)
+* Development of SMFTP Email MicroService (Java Spring)
+* Standing up Eureka Service Registry for future microservices (Java, Eureka) 
+* Implementation of UI Mock Ups (HTML, JS, CSS) 
+* Cloud based (AWS)
+BAE Systems | San Diego, California                                 Jan 2017 - October 2017
+Cloud Infrastructure Engineer:  Full Stack: C#, Java, Camel, Apache Karaf, Jetty,  ReactJs, NodeJs, AWS,  ELK Stack, Docker
+
+
+* General back end maintenance of GXP Platforms service infrastructure  (Java, Camel, Karaf ) 
+* Developed C# middleware to automate cloud deployment (C#, AWS .NET SDK, Cloud Formation)
+* Development of scripts that will automate steps in the deployment of our software product on AWS (PowerShell, Bash, AWS, Cloud Formation) 
+* Adapting frontend and backend code to operate on a distributed cloud stack (Java, Camel, Javascript, NodeJs) 
+* Development of grawk parsing rules to accommodate changes to the backend/frontend infrastructure (ELK) 
+* Design and implement distributed configuration of Java infrastructure (Docker, AWS, Java, Cloud Formation) 
+* Convert Backend Java into AWS Lambda Service (AWS Lambda) 
+
+
+
+
+LightStanza | Boulder, Colorado (Contract)                          August 2016 - November 2016
+Software Engineer: Full Stack: AngularJS, HTML, JavaScript, mongoDb, Github 
+* Maintain and develop Java back end running LightStanze software (Node JS, Javascript, Angular I/II, Java) 
+* Responsible for design and implementation of cloud based architecture for application update (AWS, Docker ,Java)
+
+
+
+
+Equilibrium Solar | Boulder, Colorado (Contract)                         August 2016 - September 2016
+Software Engineer: Full Stack : C#, LINQ, .NET, (COM) Interop OpenXML, AutoCAD, Github 
+* Design and implement software to automate ballast weight calculations for solar panels (Windows Forms, Open XML, .NET, C#, LINQ, AutoCAD) 
+
+
+Corell Lab | Boulder, Colorado                                                  May 2016 - July 2016
+Research Associate/ Software Developer: Python, Embedded C 
+* Designed and implemented an algorithm for distributed average consensus of a histogram  (Python)
+* Re-implemented the original algorithm in embedded C on autonomous droplet robots (Embedded C) 
+
+
+RXIT Software Solutions | Longmont, Colorado                           June 2014 - February 2015 
+Software Engineer: C#, LINQ, SQL Server, MVC, Javascript, HTML, CSS, ASP.NET
+* General Backend/ Frontend development (ASP.NET, LINQ, .NET MVC, HTML, CSS, JavaScript , SQL Server)
+* Development of Machine Performance Dashboard  (Java, .NET MVC, Razer, Telerik) 
+* Development of Serial Printer Application (.NET/C#)
+* Development of PDF generating Application  (.NET/C#)
+
+
+Hoeffer Lab | Boulder, Colorado                                                           August 2013 - May 2014
+Research Associate/ Software Developer/ IT: Python, MATLAB, RTD 
+* Aided PI in setting up signal processing system using RTD Signal Processing System
+* Piped output of signal processing system into MATLAB for further analysis
+* Waveform analysis using Fast Fourier Transformation in MATLAB
+
+
+BURST Research Grant | Boulder, Colorado                         August 2012 - August 2013
+Research Associate/ Software Developer / IT : Python
+* Conducted research on the chemotherapeutic effects of taxol
+* PCR , Gel electrophoresis , microdosing assays , DNA-seq , RNA-seq
+* Processed sequencing data and analyzed potential regions of interest 
+
+
+NOTABLE PROJECTS/ANALYTICAL APPLICATIONS: 
+Human Centered Computing 
+* Designed and implemented Web Application for buying and selling used
+ text books using Django, Mysql and Amazon Webservices 
+Swarm Intelligence: (Python)
+* Developed 3 Layer Neural Network from scratch using linear algebra
+* Designed sentiment analyzer and classifier for unstructured and semistructured data
+and the pipeline using (AWS )
+* Designed and implemented an algorithm for distributed average consensus of a histogram
+across a body of autonomous nodes 
+Link to paper: https://www.overleaf.com/4577240qvkmcw#/13796255/
+Artificial Intelligence: (Python)
+* Designed and implemented a search heuristic capable of finding shortest path through a graph
+* Designed and Implemented Hidden Markov Model to make future decisions based on a training set of data
+* Built multiple projects for advanced statistical inference, validation and modeling 
+Algorithms for Molecular Biology: (Python/ C++) 
+*  Wrote Hidden Markov Model to determine sequence regions from live test data provided by
+Dowell Lab (CU)
+* Designed parsing program capable of identifying regions of DNA sequence that are vulnerable to
+CRIPSR Cas9 modification inspired by Natural Language Processing techniques
+* Reimplemented UNIFRAC algorithm within QIIME in C++
+Computer Networks and the Internet: (C and Python) 
+* Implemented an Onion router using Python 
+* Implemented lower level chat room using C socket programming and TCP protocols
+* Rewrote the simple chat room to handle multiple clients
+
+
+NOTABLE COURSEWORK:
+        Computer science 
+                Data structures, Computer Systems, Software Development and Tools, Computer Programming, Robotics, Discrete mathematics, Statistics, Swarm Intelligence, Artificial Intelligence, Computer Networks and the Internet, Algorithms
+Graduate Level:
+Computer Networks and The Internet, Swarm Intelligence 
+
+
+Neuroscience:
+Bioinformatics and Genomics, Algorithms for Molecular Biology,Neuropharmacology, Computational Cognitive Neuroscience, Chemistry I/ II, Molecular Biology I/ II, Genetics, Organic Chemistry, Behavioral Neuroscience, Calculus I/II, Statistics for Neuroscience, Molecular Basis of Disease

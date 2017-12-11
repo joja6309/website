@@ -1,0 +1,85 @@
+div.jumbotron.jumbo-1{
+  background-color:rgba(0,0,0,.3);
+}
+
+h1.text-right.jumbo-head-1{
+  color:white;
+  padding-right:24px;
+  margin-right:20px;
+}
+
+h1.text-right.jumbo-head-2{
+  font-size:35px;
+  font-stretch:semi-expanded;
+  font-style:italic;
+}
+
+blockquote.jumbo-1-block{
+  color:white;
+  margin:100px;
+  border:none;
+  background-color:rgba(0, 0, 0, .3);
+}
+
+h1.head-1-sec-1{
+  margin:20px;
+  padding:10px;
+}
+
+section.sect-1{
+  background:grey;
+}
+
+nav.navbar.navbar-default{
+  background:rgba(0, 0, 0, 0);
+}
+
+a.nav-a{
+  background:none;
+}
+
+a.nav-a{
+  background-color:rgb(0,0,0,.5);
+}
+
+a.nav-a{
+  background-color:rgba(0, 0, 0, .3);
+}
+
+section.section-1{
+  background-color:grey;
+}
+
+a.nav-a{
+  background-color:transparent;
+}
+
+a.nav-a{
+  background-color:bl;
+}
+
+a.nav-a{
+  background-color:rgba(0, 0, 0, .3);
+}
+
+a.nav-a{
+  font-size:large;
+}
+
+div.container.container-1{
+  background-color:rgb(220,220,220);
+}
+
+div.container-fluid.container-1{
+  background-color:rgb(220,220,220);
+}
+
+body{
+  background-size:cover;
+  background-image:url(../../assets/img/flat-left.jpg);
+}
+
+p.block-quote{
+  color:white;
+}
+
